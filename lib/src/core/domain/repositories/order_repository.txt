@@ -1,0 +1,6 @@
+Aqui ficam as interfaces dos repositórios.
+Essas interfaces são contratos que a camada de data deve implementar.
+A camada de domain não se preocupa com como os dados serão obtidos, apenas com as operações necessárias.
+
+Exemplo:
+person_repository.dart: Interface que define os métodos addPerson, getAllPersons, entre outros, que serão implementados na camada data.

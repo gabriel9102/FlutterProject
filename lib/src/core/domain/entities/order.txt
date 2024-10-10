@@ -1,0 +1,3 @@
+As entidades representam os objetos de negócio centrais do seu sistema.
+Elas são puras e não dependem de nenhuma outra camada.
+Elas contêm os atributos e regras de negócio mais essenciais.

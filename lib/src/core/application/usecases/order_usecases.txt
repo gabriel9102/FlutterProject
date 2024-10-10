@@ -1,0 +1,6 @@
+Os casos de uso representam as ações principais da aplicação, encapsulando a lógica de negócio.
+Cada caso de uso faz uma operação específica usando os repositórios da camada de domain.
+
+Exemplo:
+add_person_use_case.dart: Caso de uso para adicionar uma nova pessoa.
+get_all_persons_use_case.dart: Caso de uso para buscar todas as pessoas.

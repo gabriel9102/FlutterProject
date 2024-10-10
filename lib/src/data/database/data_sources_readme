@@ -1,0 +1,2 @@
+Aqui ficam as classes que acessam diretamente as fontes de dados, como APIs, banco de dados, ou armazenamento local.
+Essa camada não deve saber nada sobre a lógica de negócios, apenas como obter e enviar dados.

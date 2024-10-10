@@ -1,0 +1,2 @@
+Aqui ficam as implementações concretas dos repositórios definidos na camada domain/repositories.
+Esses repositórios implementam as interfaces do domain e utilizam os data sources para buscar ou salvar os dados.

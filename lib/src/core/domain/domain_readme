@@ -1,0 +1,1 @@
+Essa camada é independente da infraestrutura e define o coração da aplicação, com as entidades, interfaces dos repositórios e os casos de uso.

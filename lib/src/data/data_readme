@@ -1,0 +1,3 @@
+A camada de dados é responsável pela implementação dos repositórios, acesso às fontes de dados externas.
+(APIs, banco de dados, armazenamento local, etc.),
+e conversão de dados (modelos de dados).
